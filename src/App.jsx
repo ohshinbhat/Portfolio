@@ -22,8 +22,8 @@ const App = () => {
         <nav> O//B </nav>
         <div className='hero'>
           <h2>Hey,</h2>
-          <h1>I'm Ohshin</h1>
-          <h1>Bhat</h1>
+          <h1>I'm Ohshin Bhat</h1>
+          
           <div className='tagline'><h2>Web Developer and Designer,</h2><h3>from Bengaluru, India</h3></div>
           <div className='links'>
             <a href='https://www.instagram.com/ohshiin/' className='icons' target="_blank"><SlSocialInstagram size={36} /></a>
